@@ -2,6 +2,8 @@
 
 A modern e-commerce platform built with React, TypeScript, and Firebase.
 
+Live Site: https://easyshop123.netlify.app/
+
 ## Features
 
 - 🛍️ Browse products by category
